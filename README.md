@@ -1,4 +1,5 @@
 
+.
 # KUBERA
 
 ## DEPLOYED CONTRACTS
